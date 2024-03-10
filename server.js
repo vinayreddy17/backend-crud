@@ -10,7 +10,7 @@ import employeeRoutes from './routes/employeeRoutes.js';
 const app = express();
 const PORT = 5000;
 const corsOptions = {
-  origin: 'https://crud-frontend-67nt2n8xy-vinay-amireddys-projects.vercel.app/',
+  origin: 'https://crud-frontend-7irrzcnl0-vinay-amireddys-projects.vercel.app/',
   credentials: true 
 };
 
